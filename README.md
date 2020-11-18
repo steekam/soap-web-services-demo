@@ -8,6 +8,10 @@ A simple `Student Manager Service` that exposes a method to fetch a student reco
 
 ## Project Setup
 >Make sure you are in the project root directory while running any command
+- Install dependencies
+```bash
+composer install
+```
 
 - Migrate the database
 ```bash
